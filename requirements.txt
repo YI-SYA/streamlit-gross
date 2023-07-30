@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+streamlit==1.25.0
+matpotlib==3.7.2
